@@ -1,0 +1,85 @@
+[04-Oct-2020 07:38:17 Asia/Kabul] PHP Notice:  Undefined index: photo in C:\xampp\htdocs\Hotel\www\roomform.php on line 30
+[04-Oct-2020 07:38:17 Asia/Kabul] PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\Hotel\www\roomform.php on line 30
+[14-Oct-2020 21:21:16 Asia/Kabul] PHP Notice:  Undefined variable: re in C:\xampp\htdocs\Hotel\www\roomsetting.php on line 52
+[14-Oct-2020 21:21:16 Asia/Kabul] PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\Hotel\www\roomsetting.php on line 52
+[14-Oct-2020 21:21:16 Asia/Kabul] PHP Notice:  Undefined variable: re in C:\xampp\htdocs\Hotel\www\roomsetting.php on line 53
+[14-Oct-2020 21:21:16 Asia/Kabul] PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\Hotel\www\roomsetting.php on line 53
+[14-Oct-2020 21:21:16 Asia/Kabul] PHP Notice:  Undefined variable: re in C:\xampp\htdocs\Hotel\www\roomsetting.php on line 54
+[14-Oct-2020 21:21:16 Asia/Kabul] PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\Hotel\www\roomsetting.php on line 54
+[14-Oct-2020 21:21:16 Asia/Kabul] PHP Notice:  Undefined variable: re in C:\xampp\htdocs\Hotel\www\roomsetting.php on line 55
+[14-Oct-2020 21:21:16 Asia/Kabul] PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\Hotel\www\roomsetting.php on line 55
+[14-Oct-2020 21:21:16 Asia/Kabul] PHP Notice:  Undefined variable: re in C:\xampp\htdocs\Hotel\www\roomsetting.php on line 56
+[14-Oct-2020 21:21:16 Asia/Kabul] PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\Hotel\www\roomsetting.php on line 56
+[14-Oct-2020 21:27:54 Asia/Kabul] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\xampp\htdocs\Hotel\www\include\sidebar.php:1) in C:\xampp\htdocs\Hotel\www\roomsetting.php on line 77
+[14-Oct-2020 21:28:37 Asia/Kabul] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\xampp\htdocs\Hotel\www\include\sidebar.php:1) in C:\xampp\htdocs\Hotel\www\roomsetting.php on line 77
+[14-Oct-2020 21:32:01 Asia/Kabul] PHP Notice:  Undefined index: url in C:\xampp\htdocs\Hotel\www\roomsetting.php on line 73
+[14-Oct-2020 21:32:01 Asia/Kabul] PHP Warning:  unlink(roomimage/): Is a directory in C:\xampp\htdocs\Hotel\www\roomsetting.php on line 76
+[14-Oct-2020 21:32:01 Asia/Kabul] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\xampp\htdocs\Hotel\www\include\sidebar.php:1) in C:\xampp\htdocs\Hotel\www\roomsetting.php on line 77
+[14-Oct-2020 21:32:05 Asia/Kabul] PHP Notice:  Undefined index: url in C:\xampp\htdocs\Hotel\www\roomsetting.php on line 73
+[14-Oct-2020 21:32:05 Asia/Kabul] PHP Warning:  unlink(roomimage/): Is a directory in C:\xampp\htdocs\Hotel\www\roomsetting.php on line 76
+[14-Oct-2020 21:32:05 Asia/Kabul] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\xampp\htdocs\Hotel\www\include\sidebar.php:1) in C:\xampp\htdocs\Hotel\www\roomsetting.php on line 77
+[14-Oct-2020 21:35:01 Asia/Kabul] PHP Notice:  Undefined index: url in C:\xampp\htdocs\Hotel\www\roomsetting.php on line 73
+[14-Oct-2020 21:35:04 Asia/Kabul] PHP Notice:  Undefined index: url in C:\xampp\htdocs\Hotel\www\roomsetting.php on line 73
+[14-Oct-2020 21:36:25 Asia/Kabul] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\xampp\htdocs\Hotel\www\include\sidebar.php:1) in C:\xampp\htdocs\Hotel\www\roomsetting.php on line 77
+[14-Oct-2020 21:37:44 Asia/Kabul] PHP Warning:  unlink(roomimage/pic _ 2020_10_04 07_44_08.jpg): No such file or directory in C:\xampp\htdocs\Hotel\www\roomsetting.php on line 76
+[14-Oct-2020 21:37:44 Asia/Kabul] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\xampp\htdocs\Hotel\www\include\header.php:1) in C:\xampp\htdocs\Hotel\www\roomsetting.php on line 77
+[14-Oct-2020 21:37:52 Asia/Kabul] PHP Warning:  unlink(roomimage/pic _ 2020_10_04 07_44_08.jpg): No such file or directory in C:\xampp\htdocs\Hotel\www\roomsetting.php on line 76
+[14-Oct-2020 21:37:52 Asia/Kabul] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\xampp\htdocs\Hotel\www\include\header.php:1) in C:\xampp\htdocs\Hotel\www\roomsetting.php on line 77
+[14-Oct-2020 21:38:39 Asia/Kabul] PHP Warning:  unlink(roomimage/pic _ 2020_10_04 07_44_08.jpg): No such file or directory in C:\xampp\htdocs\Hotel\www\roomsetting.php on line 76
+[14-Oct-2020 21:38:39 Asia/Kabul] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\xampp\htdocs\Hotel\www\include\sidebar.php:1) in C:\xampp\htdocs\Hotel\www\roomsetting.php on line 77
+[14-Oct-2020 21:39:05 Asia/Kabul] PHP Warning:  unlink(roomimage/pic _ 2020_10_04 07_44_23.jpg): No such file or directory in C:\xampp\htdocs\Hotel\www\roomsetting.php on line 76
+[14-Oct-2020 21:45:33 Asia/Kabul] PHP Warning:  unlink(roomimage/pic _ 2020_10_14 09_43_44.jpg): No such file or directory in C:\xampp\htdocs\Hotel\www\roomsetting.php on line 76
+[14-Oct-2020 21:46:30 Asia/Kabul] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\xampp\htdocs\Hotel\www\include\sidebar.php:1) in C:\xampp\htdocs\Hotel\www\roomsetting.php on line 77
+[14-Oct-2020 21:47:31 Asia/Kabul] PHP Warning:  unlink(roomimage/pic _ 2020_10_14 09_45_04.jpg): No such file or directory in C:\xampp\htdocs\Hotel\www\roomsetting.php on line 76
+[14-Oct-2020 21:47:31 Asia/Kabul] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\xampp\htdocs\Hotel\www\include\sidebar.php:1) in C:\xampp\htdocs\Hotel\www\roomsetting.php on line 77
+[14-Oct-2020 21:47:33 Asia/Kabul] PHP Warning:  unlink(roomimage/pic _ 2020_10_14 09_45_04.jpg): No such file or directory in C:\xampp\htdocs\Hotel\www\roomsetting.php on line 76
+[14-Oct-2020 21:47:33 Asia/Kabul] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\xampp\htdocs\Hotel\www\include\sidebar.php:1) in C:\xampp\htdocs\Hotel\www\roomsetting.php on line 77
+[14-Oct-2020 21:47:34 Asia/Kabul] PHP Warning:  unlink(roomimage/pic _ 2020_10_14 09_45_04.jpg): No such file or directory in C:\xampp\htdocs\Hotel\www\roomsetting.php on line 76
+[14-Oct-2020 21:47:34 Asia/Kabul] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\xampp\htdocs\Hotel\www\include\sidebar.php:1) in C:\xampp\htdocs\Hotel\www\roomsetting.php on line 77
+[14-Oct-2020 21:47:34 Asia/Kabul] PHP Warning:  unlink(roomimage/pic _ 2020_10_14 09_45_04.jpg): No such file or directory in C:\xampp\htdocs\Hotel\www\roomsetting.php on line 76
+[14-Oct-2020 21:47:34 Asia/Kabul] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\xampp\htdocs\Hotel\www\include\sidebar.php:1) in C:\xampp\htdocs\Hotel\www\roomsetting.php on line 77
+[14-Oct-2020 21:49:18 Asia/Kabul] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\xampp\htdocs\Hotel\www\include\sidebar.php:1) in C:\xampp\htdocs\Hotel\www\roomsetting.php on line 77
+[14-Oct-2020 21:49:41 Asia/Kabul] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\xampp\htdocs\Hotel\www\include\sidebar.php:1) in C:\xampp\htdocs\Hotel\www\roomsetting.php on line 76
+[14-Oct-2020 21:50:06 Asia/Kabul] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\xampp\htdocs\Hotel\www\include\sidebar.php:1) in C:\xampp\htdocs\Hotel\www\roomsetting.php on line 76
+[14-Oct-2020 21:52:38 Asia/Kabul] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\xampp\htdocs\Hotel\www\include\sidebar.php:1) in C:\xampp\htdocs\Hotel\www\roomsetting.php on line 75
+[14-Oct-2020 21:53:53 Asia/Kabul] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\xampp\htdocs\Hotel\www\include\sidebar.php:1) in C:\xampp\htdocs\Hotel\www\roomsetting.php on line 75
+[14-Oct-2020 21:54:16 Asia/Kabul] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\xampp\htdocs\Hotel\www\include\header.php:1) in C:\xampp\htdocs\Hotel\www\roomsetting.php on line 75
+[14-Oct-2020 21:54:23 Asia/Kabul] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\xampp\htdocs\Hotel\www\include\header.php:1) in C:\xampp\htdocs\Hotel\www\roomsetting.php on line 75
+[14-Oct-2020 21:55:23 Asia/Kabul] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\xampp\htdocs\Hotel\www\include\sidebar.php:1) in C:\xampp\htdocs\Hotel\www\roomsetting.php on line 75
+[15-Oct-2020 06:43:54 Asia/Kabul] PHP Warning:  sprintf(): Too few arguments in C:\xampp\htdocs\Hotel\www\roomupdate.php on line 63
+[15-Oct-2020 06:44:24 Asia/Kabul] PHP Warning:  sprintf(): Too few arguments in C:\xampp\htdocs\Hotel\www\roomupdate.php on line 63
+[15-Oct-2020 08:50:29 Asia/Kabul] PHP Notice:  Undefined variable: gender in C:\xampp\htdocs\Hotel\www\bookingform.php on line 258
+[15-Oct-2020 08:50:29 Asia/Kabul] PHP Notice:  Undefined variable: genderErr in C:\xampp\htdocs\Hotel\www\bookingform.php on line 259
+[15-Oct-2020 09:22:47 Asia/Kabul] PHP Notice:  Undefined variable: state in C:\xampp\htdocs\Hotel\www\bookingreport.php on line 17
+[15-Oct-2020 09:22:47 Asia/Kabul] PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\Hotel\www\bookingreport.php on line 17
+[15-Oct-2020 09:22:47 Asia/Kabul] PHP Notice:  Undefined variable: img in C:\xampp\htdocs\Hotel\www\bookingreport.php on line 42
+[15-Oct-2020 09:22:47 Asia/Kabul] PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\Hotel\www\bookingreport.php on line 17
+[15-Oct-2020 09:22:47 Asia/Kabul] PHP Notice:  Undefined variable: img in C:\xampp\htdocs\Hotel\www\bookingreport.php on line 42
+[15-Oct-2020 09:23:11 Asia/Kabul] PHP Notice:  Undefined variable: state in C:\xampp\htdocs\Hotel\www\bookingreport.php on line 17
+[15-Oct-2020 09:23:11 Asia/Kabul] PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\Hotel\www\bookingreport.php on line 17
+[15-Oct-2020 09:23:11 Asia/Kabul] PHP Notice:  Undefined variable: img in C:\xampp\htdocs\Hotel\www\bookingreport.php on line 42
+[15-Oct-2020 09:23:11 Asia/Kabul] PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\Hotel\www\bookingreport.php on line 17
+[15-Oct-2020 09:23:11 Asia/Kabul] PHP Notice:  Undefined variable: img in C:\xampp\htdocs\Hotel\www\bookingreport.php on line 42
+[15-Oct-2020 09:24:08 Asia/Kabul] PHP Notice:  Undefined variable: img in C:\xampp\htdocs\Hotel\www\bookingreport.php on line 42
+[15-Oct-2020 09:24:08 Asia/Kabul] PHP Notice:  Undefined variable: img in C:\xampp\htdocs\Hotel\www\bookingreport.php on line 42
+[15-Oct-2020 09:30:44 Asia/Kabul] PHP Notice:  Undefined index: url in C:\xampp\htdocs\Hotel\www\bookingreport.php on line 48
+[15-Oct-2020 09:30:44 Asia/Kabul] PHP Warning:  unlink(roomimage/): Is a directory in C:\xampp\htdocs\Hotel\www\bookingreport.php on line 51
+[15-Oct-2020 16:00:34 Asia/Kabul] PHP Warning:  move_uploaded_file(userPhoto/img _ 2020_10_15 04_00_34.jpg): failed to open stream: No such file or directory in C:\xampp\htdocs\Hotel\www\create_account.php on line 156
+[15-Oct-2020 16:00:34 Asia/Kabul] PHP Warning:  move_uploaded_file(): Unable to move 'C:\xampp\tmp\php91AB.tmp' to 'userPhoto/img _ 2020_10_15 04_00_34.jpg' in C:\xampp\htdocs\Hotel\www\create_account.php on line 156
+[15-Oct-2020 16:02:11 Asia/Kabul] PHP Warning:  move_uploaded_file(userPhoto/img _ 2020_10_15 04_02_11.jpg): failed to open stream: No such file or directory in C:\xampp\htdocs\Hotel\www\create_account.php on line 156
+[15-Oct-2020 16:02:11 Asia/Kabul] PHP Warning:  move_uploaded_file(): Unable to move 'C:\xampp\tmp\phpE0B.tmp' to 'userPhoto/img _ 2020_10_15 04_02_11.jpg' in C:\xampp\htdocs\Hotel\www\create_account.php on line 156
+[15-Oct-2020 16:02:36 Asia/Kabul] PHP Warning:  move_uploaded_file(userPhoto/img _ 2020_10_15 04_02_36.jpg): failed to open stream: No such file or directory in C:\xampp\htdocs\Hotel\www\create_account.php on line 156
+[15-Oct-2020 16:02:36 Asia/Kabul] PHP Warning:  move_uploaded_file(): Unable to move 'C:\xampp\tmp\php6E2D.tmp' to 'userPhoto/img _ 2020_10_15 04_02_36.jpg' in C:\xampp\htdocs\Hotel\www\create_account.php on line 156
+[15-Oct-2020 16:02:50 Asia/Kabul] PHP Warning:  move_uploaded_file(userPhoto/img _ 2020_10_15 04_02_50.jpg): failed to open stream: No such file or directory in C:\xampp\htdocs\Hotel\www\create_account.php on line 156
+[15-Oct-2020 16:02:50 Asia/Kabul] PHP Warning:  move_uploaded_file(): Unable to move 'C:\xampp\tmp\phpA684.tmp' to 'userPhoto/img _ 2020_10_15 04_02_50.jpg' in C:\xampp\htdocs\Hotel\www\create_account.php on line 156
+[15-Oct-2020 16:50:48 Asia/Kabul] PHP Notice:  Undefined variable: ganderErr in C:\xampp\htdocs\Hotel\www\create_account.php on line 209
+[19-Oct-2020 07:31:41 Asia/Kabul] PHP Warning:  unlink(roomimage/Twin_img24.jpg): No such file or directory in C:\xampp\htdocs\Hotel2\www\roomupdate.php on line 72
+[24-Apr-2021 10:21:31 Asia/Kabul] PHP Warning:  unlink(roomimage/pic _ 2020_11_10 08_54_35.jpg): No such file or directory in C:\xampp\htdocs\hotel\www\roomsetting.php on line 43
+[24-Apr-2021 10:21:52 Asia/Kabul] PHP Warning:  unlink(roomimage/pic _ 2021_04_23 10_36_41.jpg): No such file or directory in C:\xampp\htdocs\hotel\www\roomupdate.php on line 72
+[27-Apr-2021 00:23:01 Asia/Kabul] PHP Fatal error:  Uncaught Error: Class 'Config' not found in C:\xampp\htdocs\hotel\lib\crud.php:3
+Stack trace:
+#0 C:\xampp\htdocs\hotel\www\create_account.php(68): include()
+#1 {main}
+  thrown in C:\xampp\htdocs\hotel\lib\crud.php on line 3
+[27-Apr-2021 00:25:51 Asia/Kabul] PHP Notice:  Undefined index: name in C:\xampp\htdocs\hotel\www\create_account.php on line 139
+[27-Apr-2021 00:54:16 Asia/Kabul] PHP Warning:  unlink(roomimage/pic _ 2021_04_26 10_05_56.jpg): No such file or directory in C:\xampp\htdocs\hotel\www\roomsetting.php on line 43
